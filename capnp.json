@@ -1,0 +1,12 @@
+{
+    "version": "0.10.3",
+    "homepage": "https://capnproto.org/",
+    "license": "MIT",
+    "url": "https://capnproto.org/capnproto-c++-win32-0.10.3.zip",
+    "extract_dir": "capnproto-tools-win32-0.10.3",
+    "bin": [
+        "capnp.exe",
+        "capnpc-c++.exe",
+        "capnpc-capnp.exe"
+    ]
+}
